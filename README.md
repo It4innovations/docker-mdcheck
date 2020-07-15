@@ -1,3 +1,3 @@
 # docker-mdcheck
 
-Latest Ubuntu with mdl lint app.
+Latest Debian with mdl lint app.
